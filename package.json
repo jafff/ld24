@@ -1,0 +1,19 @@
+{
+    "name": "Plague",
+    "author": "",
+    "description": "",
+    "version": "0.0.1",
+    "homepage": "",
+
+    "engines": {
+        "node": ">= 0.4.0"
+    },
+
+    "repository": {
+    },
+
+    "dependencies": {
+        "jah": "~0.2.3",
+        "cocos2d": "~0.2.0-rc1"
+    }
+}
