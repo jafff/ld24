@@ -48,7 +48,7 @@ function Level() {
     }
 
     var citizens = []
-    this.startingPop = 1
+    this.startingPop = 35
     this.infected = 0
     this.dead = 0
     for (var i = 0; i < this.startingPop; i++) {

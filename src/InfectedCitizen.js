@@ -90,7 +90,7 @@ InfectedCitizen.inherit(Citizen, {
                 0.0, // buboes! (1)
                 0.0, // medicine resistance (2)
                 0.1, // fever strength (+panic) (3)
-                0.1, // lethality (rate at which entity health decays) (4)
+                0.0, // lethality (rate at which entity health decays) (4)
                 0.0, // entity velocity modifier (5)
                 0.1, // dehydration (6)
                 0.05, // virality (7)
